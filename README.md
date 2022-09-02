@@ -1,0 +1,2 @@
+# galeriaPrimario
+dfg
